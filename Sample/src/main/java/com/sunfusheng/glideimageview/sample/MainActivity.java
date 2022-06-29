@@ -2,8 +2,8 @@ package com.sunfusheng.glideimageview.sample;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.app.ActivityOptionsCompat;
+import androidx.core.app.ActivityCompat;
+import androidx.core.app.ActivityOptionsCompat;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;

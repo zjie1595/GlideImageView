@@ -1,7 +1,8 @@
 package com.sunfusheng.progress;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+
+import androidx.annotation.NonNull;
 
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.Registry;
@@ -15,7 +16,7 @@ import java.io.InputStream;
 /**
  * @author by sunfusheng on 2017/6/14.
  */
-@GlideModule
+@GlideModule()
 public class ProgressAppGlideModule extends AppGlideModule {
     @Override
     public void registerComponents(@NonNull Context context, @NonNull Glide glide, @NonNull Registry registry) {

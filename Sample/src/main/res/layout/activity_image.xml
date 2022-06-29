@@ -7,7 +7,7 @@
     android:background="@android:color/black"
     android:fitsSystemWindows="false">
 
-    <android.support.percent.PercentRelativeLayout
+    <androidx.percentlayout.widget.PercentRelativeLayout
         android:id="@+id/prl_image"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -22,7 +22,7 @@
             android:transitionName="@string/transitional_image"
             app:layout_aspectRatio="178%"
             app:layout_widthPercent="100%"/>
-    </android.support.percent.PercentRelativeLayout>
+    </androidx.percentlayout.widget.PercentRelativeLayout>
 
     <com.sunfusheng.progress.CircleProgressView
         android:id="@+id/progressView"

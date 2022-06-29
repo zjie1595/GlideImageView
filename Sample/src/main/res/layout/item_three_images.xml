@@ -27,7 +27,7 @@
         android:layout_marginTop="@dimen/d3"
         android:orientation="horizontal">
 
-        <android.support.percent.PercentRelativeLayout
+        <androidx.percentlayout.widget.PercentRelativeLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1">
@@ -40,9 +40,9 @@
                 android:scaleType="centerCrop"
                 app:layout_aspectRatio="150%"
                 app:layout_widthPercent="100%"/>
-        </android.support.percent.PercentRelativeLayout>
+        </androidx.percentlayout.widget.PercentRelativeLayout>
 
-        <android.support.percent.PercentRelativeLayout
+        <androidx.percentlayout.widget.PercentRelativeLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/d3"
@@ -56,9 +56,9 @@
                 android:scaleType="centerCrop"
                 app:layout_aspectRatio="150%"
                 app:layout_widthPercent="100%"/>
-        </android.support.percent.PercentRelativeLayout>
+        </androidx.percentlayout.widget.PercentRelativeLayout>
 
-        <android.support.percent.PercentRelativeLayout
+        <androidx.percentlayout.widget.PercentRelativeLayout
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_marginLeft="@dimen/d3"
@@ -72,7 +72,7 @@
                 android:scaleType="centerCrop"
                 app:layout_aspectRatio="150%"
                 app:layout_widthPercent="100%"/>
-        </android.support.percent.PercentRelativeLayout>
+        </androidx.percentlayout.widget.PercentRelativeLayout>
     </LinearLayout>
 
     <View

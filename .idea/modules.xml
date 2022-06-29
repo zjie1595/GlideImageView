@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GlideImageView.iml" filepath="$PROJECT_DIR$/GlideImageView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Sample/Sample.iml" filepath="$PROJECT_DIR$/Sample/Sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/glideimageview/glideimageview.iml" filepath="$PROJECT_DIR$/glideimageview/glideimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GlideImageView.iml" filepath="$PROJECT_DIR$/.idea/modules/GlideImageView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/glideimageview/GlideImageView.glideimageview.iml" filepath="$PROJECT_DIR$/.idea/modules/glideimageview/GlideImageView.glideimageview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/glideimageview/GlideImageView.glideimageview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/glideimageview/GlideImageView.glideimageview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/glideimageview/GlideImageView.glideimageview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/glideimageview/GlideImageView.glideimageview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/glideimageview/GlideImageView.glideimageview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/glideimageview/GlideImageView.glideimageview.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/GlideImageView.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/GlideImageView.sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/GlideImageView.sample.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/GlideImageView.sample.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/GlideImageView.sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/GlideImageView.sample.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/GlideImageView.sample.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/GlideImageView.sample.unitTest.iml" />
     </modules>
   </component>
 </project>
