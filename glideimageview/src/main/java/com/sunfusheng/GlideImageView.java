@@ -3,8 +3,10 @@ package com.sunfusheng;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.graphics.Bitmap;
+
 import androidx.annotation.DrawableRes;
 import androidx.annotation.NonNull;
+
 import android.util.AttributeSet;
 import android.widget.ImageView;
 
@@ -19,7 +21,7 @@ import com.sunfusheng.transformation.RadiusTransformation;
  * @author sunfusheng on 2017/11/10.
  */
 @SuppressLint("CheckResult")
-public class GlideImageView extends ImageView {
+public class GlideImageView extends androidx.appcompat.widget.AppCompatImageView {
 
     private boolean enableState = false;
     private float pressedAlpha = 0.4f;
