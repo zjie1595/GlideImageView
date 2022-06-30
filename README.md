@@ -1,4 +1,5 @@
 # GlideImageView  [ ![Download](https://api.bintray.com/packages/sfsheng0322/maven/GlideImageView/images/download.svg) ](https://bintray.com/sfsheng0322/maven/GlideImageView/_latestVersion)
+[![](https://jitpack.io/v/zjie1595/GlideImageView.svg)](https://jitpack.io/#zjie1595/GlideImageView)
 
 ### 该库是基于[Glide](https://github.com/bumptech/glide) V4.9.0设计的，实现如下特性:<br/>
 1、监听加载网络图片的进度<br/>
@@ -22,7 +23,7 @@
 
 #### Gradle:
 
-    compile 'com.sunfusheng:GlideImageView:<latest-version>'
+    implementation 'com.github.zjie1595:GlideImageView:v2.0.4'
     
 <br/>
 
